@@ -1,0 +1,8 @@
+# no .avi files
+*.avi
+
+# no .weights files
+*.weights
+
+# no .npy files
+*.npy
