@@ -1,0 +1,5 @@
+# no .avi files
+*.avi
+
+# no .weight files
+*.weights
