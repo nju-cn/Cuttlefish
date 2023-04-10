@@ -18,3 +18,6 @@
 
 ​	python A3C/main.py
 
+#### Note
+
+you should put the yolov3.weight into  server/weights/, and add the corresponding video files in server/. In addition, you should get the correspong feature map files .npy, and put them in traindata/pedestrian.avi/feature_map/ and traindata/exp.avi/feature_map/
